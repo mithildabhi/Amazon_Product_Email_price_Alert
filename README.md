@@ -19,8 +19,8 @@ Track Amazon product prices and get instant email alerts when your favorite item
 
 1. **Clone the Repository**
     ```
-    git clone https://github.com/yourusername/amazon-price-alert.git
-    cd amazon-price-alert
+    git clone https://github.com/mithildabhi/Amazon_Product_Email_price_Alert.git
+    cd Amazon_Product_Email_price_Alert
     ```
 
 2. **Install Requirements**
